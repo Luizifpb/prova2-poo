@@ -1,0 +1,45 @@
+Cliente{código='12379', nome='Mary', sobrenome='Long', idade='18', endereço='4542 Shady Branch Boulevard', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12385', nome='Mary', sobrenome='Smith', idade='19', endereço='3104 Thunder Grounds', cidade='Henrico', estado='VA', código_postal='23233'}
+Cliente{código='12386', nome='Ruth', sobrenome='Mccarthy', idade='20', endereço='7004 Hazy Lake Townline', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12384', nome='Raymond', sobrenome='Berry', idade='21', endereço='6629 Iron Embers View', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12382', nome='Jennifer', sobrenome='Smith', idade='24', endereço='3413 Silver Lake Carrefour', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12375', nome='Bruce', sobrenome='Moore', idade='25', endereço='7627 High Bluff End', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12377', nome='James', sobrenome='Smith', idade='32', endereço='9335 Thunder Robin Crescent', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12387', nome='Mary', sobrenome='Archer', idade='34', endereço='981 Dewy Cove', cidade='Irwin', estado='PA', código_postal='15642'}
+Cliente{código='12388', nome='Donna', sobrenome='Smith', idade='35', endereço='5292 Heather Zephyr Forest', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12390', nome='Joshua', sobrenome='Smith', idade='36', endereço='472 Noble Mall', cidade='Las Vegas', estado='NV', código_postal='89121'}
+Cliente{código='12391', nome='Evelyn', sobrenome='Lewis', idade='37', endereço='3982 Middle Horse Line', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12389', nome='Kimberly', sobrenome='King', idade='38', endereço='4878 Dusty Road', cidade='Arecibo', estado='PR', código_postal='00612'}
+Cliente{código='12392', nome='Alan', sobrenome='Wolf', idade='40', endereço='6470 Fallen Barn Autoroute', cidade='Santa Ana', estado='CA', código_postal='92704'}
+Cliente{código='12393', nome='Mary', sobrenome='Smith', idade='41', endereço='6567 High Lagoon Heath', cidade='Manati', estado='PR', código_postal='00674'}
+Cliente{código='12394', nome='Samantha', sobrenome='Sims', idade='42', endereço='8170 Dusty Oak Townline', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12395', nome='Mary', sobrenome='Smith', idade='43', endereço='3888 Cotton Corners', cidade='Provo', estado='UT', código_postal='84604'}
+Cliente{código='12396', nome='Rachel', sobrenome='Horn', idade='44', endereço='7810 Round Corners', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12381', nome='Mary', sobrenome='Olsen', idade='45', endereço='1208 Cotton Bluff Carrefour', cidade='Austin', estado='TX', código_postal='78704'}
+Cliente{código='12397', nome='Mary', sobrenome='Smith', idade='48', endereço='4463 Cotton Quail Forest', cidade='Dearborn', estado='MI', código_postal='48126'}
+Cliente{código='12398', nome='Charles', sobrenome='Johnson', idade='49', endereço='9959 Old Walk', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12400', nome='Mary', sobrenome='Smith', idade='50', endereço='9900 Hidden Rise Downs', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12401', nome='Angela', sobrenome='Gray', idade='51', endereço='109 Hazy Heath', cidade='Los Angeles', estado='CA', código_postal='90033'}
+Cliente{código='12402', nome='Mary', sobrenome='Hunt', idade='52', endereço='5840 Pleasant Link', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12404', nome='Mary', sobrenome='Smith', idade='53', endereço='5226 Dusty Wagon  Towers', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12405', nome='Ashley', sobrenome='Williams', idade='56', endereço='3281 Velvet Passage', cidade='Lawton', estado='OK', código_postal='73505'}
+Cliente{código='12406', nome='Mary', sobrenome='Michael', idade='57', endereço='9657 Red Willow Hill', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12408', nome='Randy', sobrenome='Rice', idade='58', endereço='8528 Green Corner', cidade='Fort Worth', estado='TX', código_postal='76106'}
+Cliente{código='12409', nome='Mary', sobrenome='Mccann', idade='59', endereço='1540 Round Way', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12410', nome='Bryan', sobrenome='Smith', idade='60', endereço='1828 Clear Barn Cove', cidade='Sandusky', estado='OH', código_postal='44870'}
+Cliente{código='12412', nome='Cynthia', sobrenome='Gilmore', idade='63', endereço='2934 Dusty Autoroute', cidade='Wheaton', estado='IL', código_postal='60187'}
+Cliente{código='12411', nome='Mary', sobrenome='Perez', idade='64', endereço='125 Easy Lake Close', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12413', nome='Amy', sobrenome='Smith', idade='65', endereço='3493 Middle Fawn Line', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12414', nome='Mary', sobrenome='Woodward', idade='66', endereço='2636 Lazy Terrace', cidade='Chicago', estado='IL', código_postal='60615'}
+Cliente{código='12415', nome='Joyce', sobrenome='Smith', idade='67', endereço='8335 Little Rise Downs', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12380', nome='Jacqueline', sobrenome='Shaw', idade='68', endereço='7046 Clear Creek Wharf', cidade='Henrico', estado='VA', código_postal='23233'}
+Cliente{código='12416', nome='Aaron', sobrenome='Cline', idade='69', endereço='9986 Wishing Stead', cidade='Bronx', estado='NY', código_postal='10467'}
+Cliente{código='12383', nome='Joyce', sobrenome='Phillips', idade='74', endereço='9899 Hazy Falls', cidade='North Tonawanda', estado='NY', código_postal='14120'}
+Cliente{código='12417', nome='Mary', sobrenome='Smith', idade='80', endereço='9765 Umber Green', cidade='Massapequa', estado='NY', código_postal='11758'}
+Cliente{código='12418', nome='Linda', sobrenome='Livingston', idade='81', endereço='3927 Indian Village', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12419', nome='Jane', sobrenome='Smith', idade='84', endereço='2704 Misty Dale Row', cidade='Greensburg', estado='PA', código_postal='15601'}
+Cliente{código='12420', nome='Nathan', sobrenome='Adams', idade='87', endereço='2877 Thunder Spring Isle', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12421', nome='Kyle', sobrenome='Small', idade='90', endereço='2584 Round Square', cidade='Middletown', estado='CT', código_postal='06457'}
+Cliente{código='12422', nome='Mary', sobrenome='Blevins', idade='91', endereço='6473 Bright Expressway', cidade='Caguas', estado='PR', código_postal='00725'}
+Cliente{código='12423', nome='Stephen', sobrenome='Smith', idade='94', endereço='3445 Harvest Campus', cidade='Palmdale', estado='CA', código_postal='93550'}
+Cliente{código='12424', nome='Judy', sobrenome='Phillips', idade='97', endereço='4534 Cinder Concession', cidade='San Diego', estado='CA', código_postal='92111'}
